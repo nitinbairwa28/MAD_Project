@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="current_place_image">Image of Current Place</string>
+    <string name="plans_image">Plans image</string>
+
+    <string name="description_Of_KN_Park">It protects an area of rainforest, home to endangered mammals such as forest elephants, bongo antelopes and primates…</string>
+    <string name="description_Of_KN_Mausoleum">The Kwame Nkrumah Mausoleum and memorial park is located in downtown Accra, the capital of Ghana. It is dedicated to the prominent Ghanaian leader Kwame Nkrumah.</string>
+    <string name="description_Of_Elmina_Castle"> It was the first trading post built on the Gulf of Guinea, so is the oldest European building in existence south of the Sahara.</string>
+    <string name="description_Of_MN_Park">Mole National Park protects an area of savannah and forest in northern Ghana. It’s home to elephants, leopards and rare birds such as the white-backed vulture…</string>
+    <string name="description_Of_CapeCoast_Castle">It is one of about forty "slave castles", or large commercial forts, built on the Gold Coast of West Africa by European traders…</string>
+
+    <string name="KN_Park">Kakum National Park</string>
+    <string name="KN_Mausoleum">Kwame Nkrumah Mausoleum</string>
+    <string name="Elmina_Castle">Elmina Castle</string>
+    <string name="MN_Park">Mole National Park</string>
+    <string name="CapeCoast_Castle">Cape Coast Castle</string>
+    <string name="DN_Park">Digya National Park</string>
+    <string name="SH_Resource_Reserve">Shai Hills Resource Reserve</string>
+    <string name="Mountain_Afadjato">Mountain Afadjato</string>
+    <string name="Independence_Arc">Independence Arc</string>
+    <string name="NMuseum_ofGhana">National Museum of Ghana</string>
+
+    <string name="explore">Explore</string>
+    <string name="get_adventurous">Get adventurous!</string>
+    <string name="book_a_trip">Book A Trip</string>
+    <string name="reservations">Reservations</string>
+    <string name="things_to_do">Things to do</string>
+    <string name="food_and_drinks">Food and Drinks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="backward_button">Backward button</string>
+    <string name="name_of_place">NameOfPlace</string>
+    <string name="image_of_place">ImageOfPlace</string>
+    <string name="color_of_inactive_tab_text">#727272</string>
+    <string name="color_white">#ffffff</string>
+
+
+</resources>
